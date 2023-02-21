@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzammil Hussain</h1>
-<h3 align="center">A passionate SQA Engineer and Test Automation Engineer from Pakistan</h3>
+<h3 align="center">A passionate SQA Engineer and Test Automation Engineer</h3>
 
 - 🔭 I’m currently working on **Test Automation with Selenium and Pylenium, Pytest and Pytest-BDD**
 
