@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muzammil Hussain</h1>
-<h3 align="center">A passionate SQA Engineer and Test Automation Engineer</h3>
+<h3 align="center">A passionate SQA Enginneer with a strong focus on Test Automation. My current areas of expertise include Selenium, Pylenium, Pytest, and Pytest-BDD.</h3>
 
-- 🔭 I’m currently working on **Test Automation with Selenium and Pylenium, Pytest and Pytest-BDD**
+- 🔭 I’m currently working on **Test Automation with Selenium, Pylenium, Pytest and Pytest-BDD**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I'm also actively expanding my skills by learning new technologies. Right now, I'm diving into the **MERN stack and React Native**
 
-- 📫 How to reach me **muzammilchuhan.lb@gmail.com**
+- 📫 If you'd like to get in touch with me, feel free to reach out at **muzammilchuhan.lb@gmail.com**. Let's connect and collaborate!
 
-- ⚡ Fun fact **I think I'm developer more then SQA Enginneer**
+- ⚡ While I enjoy creating automated tests and ensuring software quality.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
