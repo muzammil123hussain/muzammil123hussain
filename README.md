@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzammil Hussain</h1>
-<h3 align="center">A passionate SQA Enginneer with a strong focus on Test Automation. My current areas of expertise include Selenium, Pylenium, Pytest, and Pytest-BDD.</h3>
+<h3 align="center">A passionate SQA engineer with a strong focus on Test Automation. My current areas of expertise include Selenium, Pylenium, Pytest, Appium and Robot framework.</h3>
 
-- 🔭 I’m currently working on **Test Automation with Selenium, Pylenium, Pytest and Pytest-BDD**
+- 🔭 I’m currently working on **Test Automation with Selenium, Appium, pytest and Robot**
 
 - 🌱 I'm also actively expanding my skills by learning new technologies. Right now, I'm diving into the **MERN stack and React Native**
 
