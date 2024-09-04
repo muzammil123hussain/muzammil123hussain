@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muzammil Hussain</h1>
 <h3 align="center">A passionate Test Automation Engineer and Software Quality Analyst, My current areas of expertise include Selenium, Cypress, Pylenium, Pytest, Appium, and Robot Framework.</h3>
 
-- 🔭 I’m currently working on **Test Automation with Selenium, Pytest, and Selenium with Java**
+- 🔭 I’m currently working on **Test Automation with Selenium, RestAssured, and Cucumber with Java**
 
-- 🌱 I’m currently learning **Selenium with Java using Cucumber (Page Object Model)**
+- 🌱 I’m currently learning **Appium with Java using Cucumber (Page Object Model)**
 
-- 🤝 I’m looking for help with **Cucumber with Java**
+- 🤝 I’m looking for help with **Appium and Cucumber with Java**
 
 - 💬 Ask me about **Test Automation**
 
